@@ -2,5 +2,5 @@
 ## Presentaciones java del año 2022.
 
 <ul>
-<li>JavaDayGDL.2022<br/> <b>De java 8 a Java 18. Lo que debes de saber.</b><br/>Una revisión rápida sobre los cambios más importantes que ha tenido el lenguaje desde la versión 8 a la 18.<br/> Puedes ver la presentación aquí:<a href="https://www.youtube.com/watch?v=flAuLKFVvRs">https://www.youtube.com/watch?v=flAuLKFVvRs</a><br/></li>
+<li>JavaDayGDL.2022<br/> <b>De java 8 a Java 18. Lo que debes de saber.</b><a href="JavaDayGDL_2022_RuGI_Java_8_to_18.pdf">JavaDayGDL_2022_RuGI_Java_8_to_18.pdf</a><br/><br/>Una revisión rápida sobre los cambios más importantes que ha tenido el lenguaje desde la versión 8 a la 18.<br/> Puedes ver la presentación aquí:<a href="https://www.youtube.com/watch?v=flAuLKFVvRs">https://www.youtube.com/watch?v=flAuLKFVvRs</a><br/></li>
 </ul>
