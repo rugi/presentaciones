@@ -36,7 +36,8 @@
 ### Requerimientos.
 Para poder tomar el taller comodamente es necesario tener instalado y contar con los conocimientos de lo siguiente:
 
-* Java 17+
-* Spring boot 
-* Maven 
-* Docker
+* Java 21+
+* Docker Desktop
+* Git
+* IDE de su preferencia.
+
