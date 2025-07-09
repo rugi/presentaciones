@@ -41,3 +41,4 @@ Para poder tomar el taller comodamente es necesario tener instalado y contar con
 * Git
 * IDE de su preferencia.
 
+Se requiere que el participante conozca a nivel de usuario el sistema operativo linux, usaremos Docker para facilitar los laboratorios, pero si el tiempo lo permite haremos instalaciones desde cero de un entorno de monitoreo.
