@@ -1,29 +1,37 @@
 ## OpenTelemetry para todos.
 ### Temario a cubrir.
-1. Introducción.
-    1.1. ¿Por qué es necesario?. 
-    1.2. Metricas.
-    1.3. Logs.
-    1.4. Traces.
-    1.5. ¿MELT?
-    1.6. OpenTelemetry Framework
-        1.6.1. OTLP. OpenTelemetry Protocol.
-        1.6.2. Signals.
-        1.6.3. Documentación de Referencia.
+<ol>
+<li>Introducción.</li>
+    <ol>
+    <li>¿Por qué es necesario?.</li> 
+    <li>Metricas.</li>
+    <li>Logs.</li>li
+    <li>Traces.</li>
+    <li>¿MELT?</li>
+    <li>OpenTelemetry Framework</li>
+    <ol>    
+        <li>OTLP. OpenTelemetry Protocol.</li>
+        <li>Signals.</li>
+        <li>Documentación de Referencia.</li>
+    </ol>    
+    </ol>
+<li>Componentes Clave.</li>
+<li>Referencias.</li>
+<li>Dónde seguir.</li>
 
-2. Componentes Clave.
-3. Referencias.
-4. Dónde seguir.
 
-
-5. Laboratorios.
-    5.1. Instrumentación
-        5.1.1. Instrumentación Automática. 
-         5.1.2. Instrumentación con librerías.
-         5.1.3. Instrumentación Manual.
-
-6. Troubleshooting.(Edited)
-
+<li>Laboratorios.</li>
+<ol>
+    <li>Instrumentación</li>
+    <ol>
+        <li>Instrumentación Automática. </li>
+        <li>Instrumentación con librerías.</li>
+        <li>Instrumentación Manual.</li>
+    </ol>
+</ol>
+<li>Troubleshooting.</li>
+<li>Mejores prácticas.</li>
+<ol>
 ### Requerimientos.
 Para poder tomar el taller comodamente es necesario tener instalado y contar con los conocimientos de lo siguiente:
 
