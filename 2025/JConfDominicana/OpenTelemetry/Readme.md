@@ -32,6 +32,7 @@
 <li>Troubleshooting.</li>
 <li>Mejores prácticas.</li>
 <ol>
+    
 ### Requerimientos.
 Para poder tomar el taller comodamente es necesario tener instalado y contar con los conocimientos de lo siguiente:
 
