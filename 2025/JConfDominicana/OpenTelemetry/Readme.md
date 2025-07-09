@@ -5,7 +5,7 @@
     <ol>
     <li>¿Por qué es necesario?.</li> 
     <li>Metricas.</li>
-    <li>Logs.</li>li
+    <li>Logs.</li>
     <li>Traces.</li>
     <li>¿MELT?</li>
     <li>OpenTelemetry Framework</li>
