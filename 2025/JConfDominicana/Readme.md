@@ -1,4 +1,4 @@
-<img src="jconf-sm-logo-2.png>
+<img src="jconf-sm-logo-2.png">
           
 # JConf Dominicana. 2025.
 
