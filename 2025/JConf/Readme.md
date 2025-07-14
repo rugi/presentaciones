@@ -1,6 +1,6 @@
-<center>
+
 <img src="jconf_mx_2025">
-</center>center>
+
 # JConf 2025. 
 ## Charla:
 OpenTelemetry para todos.
