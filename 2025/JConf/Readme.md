@@ -1,5 +1,5 @@
 
-<img src="jconf_mx_2025">
+<img src="jconf_mx_2025.png">
 
 # JConf 2025. 
 ## Charla:
