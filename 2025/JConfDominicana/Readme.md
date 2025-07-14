@@ -12,4 +12,4 @@ https://jconfdominicana.org/#speakers
 ### BBDD orientadas a Grafos. Neo4j un ejemplo práctico
 
 ## Taller.
-### OpenTelemetry.
+### OpenTelemetry Para todos.
