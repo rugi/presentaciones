@@ -10,7 +10,7 @@ Las A.C las subiré eventualmente.
 [JConf México](2025/JConf/Readme.md)
 
 ### JConf Dominicana. 18-19 de Agosto del 2025.
-[JConf Dominicada](JconfDominicana/)
+[JConf Dominicada](2025/JConfDominicana/Readme.md)
 
 
 
