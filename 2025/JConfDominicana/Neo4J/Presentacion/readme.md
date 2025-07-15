@@ -1,5 +1,10 @@
 ## Presentación
-
+### PDF
+<ul>
+<li>
+       <a href="JConfDominicana_RUGI_Grafos_Java_NoSQL.pdf">JConfDominicana_RUGI_Grafos_Java_NoSQL.pdf</a>
+</li>
+</ul>
 ## Consultas
 Consultas en cipher para la presentacion.
 
