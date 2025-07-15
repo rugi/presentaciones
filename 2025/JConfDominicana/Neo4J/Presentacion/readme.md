@@ -3,7 +3,7 @@
 ## Consultas
 Consultas en cipher para la presentacion.
 
-```ciph
+```cypher
 MATCH (n)
 DETACH DELETE n;
 
