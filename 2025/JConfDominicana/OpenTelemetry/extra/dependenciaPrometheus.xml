@@ -1,1 +1,16 @@
+	<dependencies>
 
+		<dependency>
+    		<groupId>io.micrometer</groupId>
+    		<artifactId>micrometer-registry-prometheus</artifactId>
+		</dependency>
+
+	</dependencies>
+
+Agregar estas lineas al archivo : application.properties, ubicado en: src/main/resources
+
+server.port: 9000
+management.server.port: 9001
+management.server.address: 127.0.0.1
+management.endpoints.web.exposure.include=health,info,prometheus
+management.endpoint.prometheus.enabled=true
