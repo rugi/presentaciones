@@ -14,3 +14,11 @@ management.server.port: 9001
 management.server.address: 127.0.0.1
 management.endpoints.web.exposure.include=health,info,prometheus
 management.endpoint.prometheus.enabled=true
+
+
+## Agregamos el exporter para spring-boot
+  - job_name: 'spring-boot-app'
+
+    metrics_path: '/actuator/prometheus'
+    static_configs:
+      - targets: ['localhost:9001']
