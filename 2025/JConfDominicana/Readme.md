@@ -10,6 +10,8 @@ https://jconfdominicana.org/#speakers
 
 ## Presentación.
 ### BBDD orientadas a Grafos. Neo4j un ejemplo práctico
+<a href="">Java y Neo4J.</a>
 
 ## Taller.
 ### OpenTelemetry Para todos.
+<a href="">OpenTelemetry.</a>
