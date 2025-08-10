@@ -16,10 +16,31 @@ El escenario es:
   La herramienta a usar es: Prometheus.
   Prometheus es parte del stack de proyectos de la CNCF.
 ```
-
-
-
 Como puedes observar, es un caso práctico.
+
+### Pasos a realizar.
+#### Del lado de Prometheus
+* Instalar Prometehus.
+* Ejecutar Prometheus.
+* Validar la instalación de Prometheus.
+* Conocer como hacer Query's.
+
+### Del lado de la aplicación Java
+* Descargar un proyecto funcionando con Springboot.
+* Validar que su ejecución funcione satisfactoriamente.
+* Modificar el POM del proyecto.
+* Modificar el archivo properties.
+* Volver a ejecutar la aplicación java.
+* Validar métricas.
+
+### Por último.
+* Agregar configuración para que Prometheus pueda leer la información de nuestro proceso Java.
+* Volver a ejecutar Prometheus.
+* Validar que ya podemos usar las mètricas de nuestro proceso java en Prometheus y podemos hacer Query's.
+
+
+¡Manos a la Obra!
+
 
 
 
