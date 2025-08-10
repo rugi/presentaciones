@@ -8,6 +8,7 @@ Tiene como objetivo:
 - Cubrir un caso práctico que mañana mismo puede ya aplicar.
 
 El escenario es:
+
 '''
   Tengo un microservicio hecho en springboot, ya tiene activo el actuator pero quiero usar alguna otra herramienta que me permita visualizar de mejor manera lo que ya expone el proceso Java.
   Para ello, puedo modificar el proyecto de Springboot sin ser tan intrusivo y lograr que ahora, adicional a lo que el actuator me da, tenga yo disponibles otras métricas.
